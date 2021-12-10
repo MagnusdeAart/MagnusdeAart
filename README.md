@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MagnusdeAart
-- 👀 I’m interested in becoming a digital nomad for some time, making the network state a reality, geopolitcs, neuroscience (how does the brain work), starship, starlink and the boring company, learning languages (actual and programming).
-- 🌱 I’m currently learning all things blockchain, because i swallowed the balaji pill haha.
-- 💞️ I’m looking to collaborate on ... nothing so far, because i don't think i have enough knowledge yet to contribute something meaningful. Hopefully soon!
-- 📫 How to reach me ...Soon probably on twitter :) Thanks for reading my profile!
+- 👀 I’m interested in making the network state a reality, geopolitcs, neuroscience, starship, starlink and the boring company, learning languages (actual and programming).
+- 🌱 I’m currently learning all things blockchain.
+How to reach me ...you can find me on twitter @realmagnussrm! Thanks for reading my profile!
 
 <!---
 MagnusdeAart/MagnusdeAart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
