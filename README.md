@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagnusdeAart
-- 👀 I’m interested in making the network state a reality, geopolitcs, neuroscience, starship, starlink and the boring company, learning languages (actual and programming).
+- 👀 I’m interested in geopolitcs, international human rights, starship, learning languages (actual and programming) among others :).
 - 🌱 I’m currently learning all things blockchain.
 How to reach me ...you can find me on twitter @realmagnussrm! Thanks for reading my profile!
 
