@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MagnusdeAart
-- 👀 I’m interested in geopolitics, international human rights, starship, learning languages (actual and programming) among others :).
-- 🌱 I’m currently learning all things blockchain.
-How to reach me ...you can find me on twitter @magnussrm! Thanks for reading my profile!
+- 👀 I'm on a path to build a better world.
+- 🌱 Excited for the future with you!
 
 <!---
 MagnusdeAart/MagnusdeAart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
